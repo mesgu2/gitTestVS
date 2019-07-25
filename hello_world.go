@@ -1,4 +1,4 @@
-package gitTestVS
+package gittestvs
 
 import "fmt"
 
